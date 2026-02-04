@@ -64,3 +64,6 @@ og_image: "/assets/images/og-image.png"
 #   provider: "google-gtag"
 #   google:
 #     tracking_id: "G-XXXXXXXXXX"
+
+# URL 설정 (한글 카테고리 문제 해결)
+permalink: /:year/:month/:day/:title/
