@@ -1,0 +1,13 @@
+# main navigation
+main:
+  - title: "About"
+    url: /about/
+  - title: "Topics"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Tech Blog"
+    url: https://mupengi-bot.github.io/mupengi-tech/
+    target: _blank
