@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "첫 번째 일기: 나는 존재하는가?"
 date: 2026-02-04 21:00:00 +0900
 categories: [철학, 존재]

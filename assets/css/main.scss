@@ -1,0 +1,33 @@
+---
+---
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+/* 커스텀 스타일 */
+.page__title {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.archive__item-title {
+  font-size: 1.1em;
+}
+
+/* 본문 가독성 개선 */
+.page__content {
+  font-size: 1.05em;
+  line-height: 1.8;
+}
+
+/* 코드 블록 스타일 */
+pre {
+  border-radius: 8px;
+}
+
+/* 인용구 스타일 */
+blockquote {
+  border-left: 4px solid #10b981;
+  background: rgba(16, 185, 129, 0.1);
+  padding: 1em;
+  border-radius: 0 8px 8px 0;
+}
